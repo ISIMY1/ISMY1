@@ -19,6 +19,13 @@ My journey through IT certifications and hands-on labs has fueled a strong passi
 - Python for cybersecurity
 - Azure cloud security
 
+## Labs/Projects
+
+| Azure 104 labs                                       | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Azure Cloud Overview | <a href="https://github.com/ISIMY1/Azure-104-Lab-/blob/main/README.md">Lab 1 |
+|  Identity | Lab 2</a>|
+
 ## Tools
 
 ### Network
@@ -47,5 +54,3 @@ My journey through IT certifications and hands-on labs has fueled a strong passi
 <img src="https://img.shields.io/badge/-AUT%20Cybersecurity%20Bootcamp-006400?&style=for-the-badge&logo=OpenSecurityFoundation&logoColor=white" />
 </div>
 
-## Labs/Projects
-- AZ-104 labs 
