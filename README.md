@@ -7,7 +7,17 @@ Motivated IT and cybersecurity professional with hands-on training and certifica
 
 My journey through IT certifications and hands-on labs has fueled a strong passion for cybersecurity, and I am now eager to transition into the field by contributing to a Security Operations Center (SOC) as a Tier 1 Analyst. I am committed to applying my skills, growing with real-world experience, and developing into a well-rounded security professional.
 
+🔭 I’m planning to:
+- Build cybersecurity projects (like port scanners, password crackers, etc.)
+- Post walkthroughs of TryHackMe and Hack The Box labs
+- Share my learning notes and tools
+- Document my progress toward my first role in Cyber Security
 
+📚 What I’m currently learning:
+- Networking fundamentals
+- Linux basics and bash scripting
+- Python for cybersecurity
+- Azure cloud security
 
 ## Tools
 
