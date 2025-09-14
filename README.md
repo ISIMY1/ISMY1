@@ -25,7 +25,8 @@ My journey through IT certifications and hands-on labs has fueled a strong passi
 |-----------------------------------------------|----------------------------|
 | Azure Cloud Overview | <a href="https://github.com/ISIMY1/Lab-01-azure-cloud-overview/blob/main/README.md"/>Lab 1 |
 |  Identity | <a href="https://github.com/ISIMY1/Lab-2-/tree/main"/>Lab 2 |
-| Governance | <a href="https://github.com/ISIMY1/Lab-3/tree/main"/>Lab 3| 
+| Governance | <a href="https://github.com/ISIMY1/Lab-3/tree/main"/>Lab 3 | 
+| Resiliency | <a href="https://github.com/ISIMY1/Lab-4-/tree/main"/>Lab 4 |
 
 ## Tools
 
