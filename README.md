@@ -23,8 +23,8 @@ My journey through IT certifications and hands-on labs has fueled a strong passi
 
 | Azure 104 labs                                       | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure Cloud Overview | <a href="https://github.com/ISIMY1/Lab-01-azure-cloud-overview/blob/main/README.md">Lab 1 |
-|  Identity | <a herf="https://github.com/ISIMY1/Lab-2-/tree/main">Lab 2 |
+| Azure Cloud Overview | <a href="https://github.com/ISIMY1/Lab-01-azure-cloud-overview/blob/main/README.md"/>Lab 1 |
+|  Identity | <a herf="https://github.com/ISIMY1/Lab-2-/tree/main"/>Lab 2 |
 
 ## Tools
 
